@@ -1,0 +1,2 @@
+*.mov filter=lfs diff=lfs merge=lfs -text
+C:/Users/Maste/Desktop/Iyad_Tns/Shopping_Mall_ShopOwner filter=lfs diff=lfs merge=lfs -text
